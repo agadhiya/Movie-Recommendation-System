@@ -63,13 +63,21 @@ Recommendations for Avatar:
 ['Aliens', 'Guardians of the Galaxy', 'Star Wars: The Force Awakens', 'Star Trek', 'The Avengers']
 ```
 
-### Screenshots
-Below are three screenshots showing the system in action:
-1. **Data Loading and Preprocessing**
-2. **Cosine Similarity Computation**
-3. **Recommendations Output**
+### Results
 
-(Screenshots can be viewed in the repository.)
+**Recommendations Output**
+
+Below are screenshots showcasing the system in action:
+
+1. **Recommendations Output**
+   ![Recommendations Output]](R1.png)
+
+2. **Recommendations Output**
+   ![Recommendations Output](R2.png)
+
+3. **Recommendations Output**
+   ![Recommendations Output](R3.png)
+
 
 ---
 
