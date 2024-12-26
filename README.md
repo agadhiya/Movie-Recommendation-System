@@ -70,7 +70,7 @@ Recommendations for Avatar:
 Below are screenshots showcasing the system in action:
 
 1. **Recommendations Output**
-   ![Recommendations Output]](R1.png)
+   ![Recommendations Output](R1.png)
 
 2. **Recommendations Output**
    ![Recommendations Output](R2.png)
