@@ -43,13 +43,6 @@ The project uses the [TMDb Movie Metadata Dataset](https://www.kaggle.com/datase
 
 ---
 
-## Example Usage
-To test the system:
-1. Clone the repository.
-2. Load the `movie_recommender_system.ipynb` notebook.
-3. Run the cells sequentially.
-4. Input a movie title to get personalized recommendations.
-
 ### Code to See the Result
 ```python
 movie_name = 'Avatar'
@@ -90,28 +83,6 @@ Below are screenshots showcasing the system in action:
   - sklearn
   - ast (built-in)
 
-### Steps
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/movie-recommender-system.git
-   ```
-2. Install required libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Open and run the Jupyter Notebook.
-
----
-
-## Project Structure
-```
-├── movie_recommender_system.ipynb   # Main notebook for the project
-├── README.md                        # Project documentation
-├── screenshots                      # Folder containing screenshots
-└── requirements.txt                 # List of required libraries
-```
-
----
 
 ## Future Enhancements
 - Incorporate user-specific data to personalize recommendations further.
